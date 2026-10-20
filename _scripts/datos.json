@@ -1,0 +1,13 @@
+{
+  "sitio": "Estudio Jurídico Parisotto Darío Luciano & Asoc.",
+  "titulo_corto": "Parisotto & Asociados",
+  "responsable": "Estudio Jurídico Parisotto Darío Luciano & Asoc.",
+  "domicilio": "Belgrano 54, 5º piso, oficina G, Torre Nubis, Córdoba (CP 5000)",
+  "email": "yaninarampulla@gmail.com",
+  "telefono": "+54 9 351 243-6058",
+  "persona": "nosotros",
+  "formulario": true,
+  "btn": "btn-bronce",
+  "theme_color": "#0A0E26",
+  "css": {"fondo": "var(--t2)", "fondo_hero": "var(--t1)", "texto_hero": "#fff", "acento": "var(--bronce-l)", "muted": "var(--muted)", "titulos": "var(--head)"}
+}
